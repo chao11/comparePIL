@@ -10,7 +10,7 @@ import cv2
 root_dir = r"H:\2017AIchallenge\DATA_v.2\2017PathologyAIchallenge\cancer_subset"
 file_list = os.listdir(root_dir)
 
-
+# add a line for difference
 """
 # average size of files: 
 size = []
